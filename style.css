@@ -41,6 +41,8 @@ body {
       #080b12 100%
     );
 }
+
+
 /* HERO TEXT */
 
 .hero-content {
@@ -408,16 +410,6 @@ footer span {
 /* MOBILE */
 
 @media (max-width: 700px) {
-
-  .hero::before {
-    top: 15%;
-    left: 10%;
-  }
-
-  .hero::after {
-    top: 20%;
-    right: 12%;
-  }
 
   .hero h1 {
     font-size: 75px;
